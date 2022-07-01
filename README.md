@@ -31,17 +31,23 @@ Glad to work on this project, due to time constaint unable to expolre more on it
 
 
 --------------------------------------------------------------------------------------------------
-Web Portal Access point: http://localhost:4200/ Local Angular
+Web Portal Access point: http://localhost:4200/         Local Angular
 
 Database Access points:
+
 Jwt Application Tables : http://localhost:8080/h2-console/
+
 Process pension tables : http://localhost:9595/h2-console/
+
 pensioner details tables : http://localhost:8585/h2-console/
 
 
 Local accces point for Backent
+
 Authorization Microservice: http://localhost:8080/
+
 ProcessPension Microservice: http://localhost:9595/
+
 Pensioner Detail Microservice: http://localhost:8585/
 
 --------------------------------------------------------------------------------------------------
