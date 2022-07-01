@@ -22,7 +22,7 @@ About Project :-
 
 5.Used globle exception handling to avoid multiple use of try catch for some common exceptions
 
-5.Used Interceptor to add token in request in Angualr
+5.Used Interceptor to add token in request in Angular
 
 6.SignUp, login function are added
 
