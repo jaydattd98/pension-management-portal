@@ -1,4 +1,4 @@
-#pension management system
+# pension management system
 
 pension management system
 
@@ -9,7 +9,6 @@ Developed by:
 
 Name :- Dhorsinge Jaydatt
 
-Emp Id :- 841771
 
 --------------------------------------------------------------------------------------------------
 
