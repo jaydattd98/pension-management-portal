@@ -13,11 +13,17 @@ Name :- Dhorsinge Jaydatt
 About Project :-
 
 1.Used Angualr As presentation layer
+
 2.Created separate Microservice for Authorization and Authentication purpose
+
 3.Every request in Process pension and Pensioner details Microservice will Authenticate by Jwt Authorization Microservice.
+
 4.Process pension gave call to pentioner deatails service and get result.
+
 5.Used globle exception handling to avoid multiple use of try catch for some common exceptions
+
 5.Used Interceptor to add token in request in Angualr
+
 6.SignUp, login function are added
 
 
