@@ -1,7 +1,5 @@
 # Pension Management System
 
-pension management system
-
 
 Pension Management System
 
@@ -23,7 +21,7 @@ About Project :-
 6.SignUp, login function are added
 
 
-Glad to work on this project, due to time containt and current project delivarable unable to expolre more on it.
+Glad to work on this project, due to time constaint unable to expolre more on it.
 
 
 --------------------------------------------------------------------------------------------------
